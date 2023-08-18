@@ -7,6 +7,13 @@ Durante 7 dias, foram passadas 7 atividades de lógica de programação com Java
 
 ## :hammer: Funcionalidades do projeto
 
+- `Adicionar e remover itens da lista de compras`: o usuário poderia adicionar (Dia 5) ou remover itens da lista de compras ao inserir no prompt (Dia 6).
+- `Fazer operações de soma, subtração, multiplicação e divisão`: o usuário poderia escolher a operação matemática desejada e inserir os dois valores no prompt, que o programa faria o papel de calcular a operação (Dia 7).
+
+## 📁 Acesso ao projeto
+
+Você pode acessar o projeto clicando no arquivo index.html contido em cada pasta.
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 Técnicas utilizadas:
@@ -33,3 +40,14 @@ Tecnologias e ferramentas utilizadas:
 - ``DevTools``: utilizamos a aba “Console”, no qual podemos executar qualquer código JavaScript, além de nos ajudar a desenvolver, a entender o nosso código e ver como os erros são apresentados.
 - ``Git``: Ferramenta de controle de versão de seu arquivo, projeto ou código. 
 - ``GitHub``: Plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs (permite compartilhamento de código através da criação de repositórios), utilizando o Git como sistema de controle.
+
+## 📚 Mais informações do desafio
+Gostou do desafio e quer conhecer mais? Você pode acessar o desafio: 
+- [Desafio 7 Days of Code](https://7daysofcode.io/matricula/logica-programacao)
+
+Esse curso faz parte da formação [A partir do zero: iniciante em programação](https://cursos.alura.com.br/formacao-programacao) da Alura
+
+# Autores
+
+| <img src="https://github.com/CamilaSah/site-pessoal/assets/128820692/bed790ab-3722-4503-8fed-c786e774661b" width="100"><br>[<sub>Camila Sayuri Tokubo</sub>](https://www.linkedin.com/in/camila-tokubo/)|
+| :---: |
